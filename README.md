@@ -10,12 +10,20 @@
 
 ## Two Pointers
 
-- BinarySearch 
+- Binary Search 
 - Find First Position 
 - Find Last Position
 - Find K Cloest （需要复习）
 - Search in 2D Matrix
 - Search Sorted Array of Unkown Size
+- MergeSortedArray
+
+## Queue and Stack
+
+- Implement Queue with Two Stack
+- MaxStack (需要复习)
+- MinStack（需要复习）
+- Sort with Two Stack （需要复习）
 
 
 
