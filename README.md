@@ -40,6 +40,54 @@
 - ReverseLinkedListIterative
 - ReverseLinkedListRecursion
 
+## Tree
+
+- Balanced Binary Tree
+- Binary Tree Inorder Traversal
+- Binary Tree Right Side View
+- K-th Smallest In BST
+- Symmetric Tree
+- Validate Binary Search Tree
+- Closest Binary Search Tree Value
+- Two Sum BSTs
+- Two Sum - Input is a BST
+
+## BFS 
+- Minimum Knight Moves
+- Average of Levels in Binary Tree
+- Binary Tree Level Order Traversal
+- Binary Tree Level Order Traversal II
+- Binary Tree Zigzag Level Order Traversal
+- Clone Graph
+- Course Schedule
+- Course Schedule II 
+- Number of Islands
+- Rotting Oranges
+- Serialize and Deserialize Binary Tree
+
+## DFS
+- subsets
+- Permutations
+- Permutations II 
+- Next Permutation
+- Permutation Sequence
+- Generate Parentheses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
