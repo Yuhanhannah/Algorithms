@@ -66,14 +66,29 @@
 - Serialize and Deserialize Binary Tree
 
 ## DFS
-- subsets
+- Subsets
 - Permutations
 - Permutations II 
 - Next Permutation
 - Permutation Sequence
 - Generate Parentheses
 
+## Heap
 
+- KLargestInArrayMaxHeap
+- KLargestInArrayMinHeap
+- KthLargestInArrayQuickSelect
+
+## HashTable + PriorityQueue
+
+- Intersection of Two Arrays(Two Sets)
+- Intersection of Two Arrays(Binary Search)
+- Intersection of Two Arrays II
+- K Closest Points to Origin(Priority Queue)
+- K Closest Points to Origin(Sort)
+- Missing Number
+- Top K Frequent Elements
+- Top K Frequenters words
 
 
 
