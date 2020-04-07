@@ -3,17 +3,17 @@
 ## Sorting
 - Selection Sort Array
 - Merge Sort Array
-- Quick Sort Array（需要复习）
-- Quick Sort LinkedList(需要复习)
+- Quick Sort Array
+- Quick Sort LinkedList
 - Rainbow Sort Array
-- Bucket Sort/Radix Sort/Counting Sort（需要复习）
+- Bucket Sort/Radix Sort/Counting Sort
 
 ## Two Pointers
 
 - Binary Search 
 - Find First Position 
 - Find Last Position
-- Find K Cloest （需要复习）
+- Find K Cloest
 - Search in 2D Matrix
 - Search Sorted Array of Unkown Size
 - MergeSortedArray
@@ -21,9 +21,9 @@
 ## Queue and Stack
 
 - Implement Queue with Two Stack
-- MaxStack (需要复习)
-- MinStack（需要复习）
-- Sort with Two Stack （需要复习）
+- MaxStack 
+- MinStack
+- Sort with Two Stack 
 
 ## LinkedList
 
@@ -36,7 +36,7 @@
 - Palindrome LinkedList
 - Remove LinkedList Elements
 - Reorder List
-- Reorder List（重点！！！）
+- Reorder List
 - Reverse LinkedList Iterative
 - Reverse LinkedList Recursion
 
