@@ -90,8 +90,18 @@
 - Top K Frequent Elements
 - Top K Frequenters words
 
+## String 
 
-
+- Char De-duplication
+- Find All Anagrams in a String
+- Longest Substring with At Most K Distinct Characters
+- Longest Substring with At Most Two Distinct Characters
+- Longest Substring Without Repeating Characters
+- Permutation in String
+- Remove Element
+- RemoveSpaces
+- ReOrderString
+- String Shuffling
 
 
 
