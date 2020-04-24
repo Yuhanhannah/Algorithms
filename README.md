@@ -103,6 +103,19 @@
 - ReOrderString
 - String Shuffling
 
+## Bit
+- Majority Element
+- Maximum Length of a Concatenated String with Unique Characters
+- Power of Two
+- Single Number
+- Sum of Two Integers
+- UTF-8 Validation
+
+## Recursion
+- N-Queens
+- Spiral Matrix
+- Spiral Matrix II
+
 
 
 
